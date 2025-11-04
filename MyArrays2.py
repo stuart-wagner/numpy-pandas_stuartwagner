@@ -207,7 +207,7 @@ print(grades)
 print(flattened) #deep copy
 print(raveled)  #shallow copy
 
-print(grades.T) #transpose function
+print(grades.T) #transpose function (shallow copy)
 print()
 
 
